@@ -36,6 +36,6 @@ The Deep Learning Specialization consists of five courses:
 
 - Due to the absence of large training datasets and helper functions, some notebooks may not execute as intended.
 - This repository is intended for backup and reference purposes.
-- Week 3 material is not present, since this did not require python notebooks, but rather quizzes on ML strategyy.
+- Week 3 material is not present since this did not require python notebooks, but rather quizzes on ML strategyy.
 
 
